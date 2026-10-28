@@ -1,0 +1,18 @@
+[
+    {
+        "api_url":"Ashraf4224/azureDataEngineering/main/dataFiles/DateExa.csv",
+        "folder_name":"return",
+        "file_name":"data_exa.csv"
+    },
+    {
+        "api_url":"Ashraf4224/azureDataEngineering/main/dataFiles/csv1.csv",
+        "folder_name":"return",
+        "file_name":"data.csv"
+    },
+    {
+        "api_url":"Ashraf4224/azureDataEngineering/main/dataFiles/emp.csv",
+        "folder_name":"return",
+        "file_name":"emp.csv"
+    }
+]
+
